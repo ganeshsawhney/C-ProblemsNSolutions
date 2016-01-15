@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 # include<stdio.h>
 # include<conio.h>
 void main()
@@ -12,3 +16,6 @@ else
 printf("It is a not a vowel");
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
