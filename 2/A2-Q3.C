@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 # include<stdio.h>
 # include<conio.h>
 void main()
@@ -17,3 +21,7 @@ printf("the no. is odd");
 }
 getch();
 }
+
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */

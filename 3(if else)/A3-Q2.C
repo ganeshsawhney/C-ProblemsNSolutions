@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 # include<stdio.h>
 # include<conio.h>
 void main()
@@ -15,3 +19,7 @@ printf("1 = %d",x);
 printf("2 = %d",y);
 getch();
 }
+
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */

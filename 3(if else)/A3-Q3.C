@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 # include<stdio.h>
 # include<conio.h>
 void main()
@@ -24,3 +28,7 @@ printf("z is greatest");
 }
 getch();
 }
+
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */

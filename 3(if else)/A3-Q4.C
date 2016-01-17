@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 # include <stdio.h>
 # include <conio.h>
 void main()
@@ -28,3 +32,7 @@ printf("No Profit, No Loss");
 }
 getch();
 }
+
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
