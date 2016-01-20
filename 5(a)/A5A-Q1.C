@@ -1,3 +1,7 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
+
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -37,3 +41,7 @@ avg=sum/(freq+1);
 printf("%f",avg);
 getch();
 }
+
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
