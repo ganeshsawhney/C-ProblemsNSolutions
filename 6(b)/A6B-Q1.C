@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -26,3 +29,6 @@ printf("Element a[%d][%d] is %d\n",i,j,a[i][j]);
 }
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
