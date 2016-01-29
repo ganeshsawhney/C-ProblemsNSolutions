@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -69,3 +72,6 @@ printf("\navg run scored in each test match %d is\t\t%d",i+1,e[i].run);
 
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */

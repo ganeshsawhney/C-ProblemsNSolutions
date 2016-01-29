@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include<stdio.h>
 #include<conio.h>
 void main()
@@ -56,3 +59,6 @@ if(e[i].code==code1)
 printf("Total books are - %d",ttl+1);
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
