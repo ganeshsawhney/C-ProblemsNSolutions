@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include <stdio.h>
 #include <conio.h>
 void main()
@@ -16,3 +19,6 @@ count=count+1;
 printf("Frequency of %c = %d", ch, count);
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
