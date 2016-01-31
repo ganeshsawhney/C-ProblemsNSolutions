@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 # include<stdio.h>
 # include<conio.h>
 void avg(int b[][5],int x,int y);
@@ -50,3 +53,6 @@ avg=sm/(x);
 printf("\nAvg of column%d is \t%d",i,avg);
 }
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
