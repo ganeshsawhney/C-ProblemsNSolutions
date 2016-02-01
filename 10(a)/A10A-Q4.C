@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 # include<stdio.h>
 # include<conio.h>
 float inv(float rate,float iniv,int year);
@@ -31,3 +34,6 @@ final = 0;
 }
 return (final);
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
