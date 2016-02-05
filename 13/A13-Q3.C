@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include<stdio.h>
 #include<conio.h>
 
@@ -68,3 +71,6 @@ fclose(fp3);
 
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
