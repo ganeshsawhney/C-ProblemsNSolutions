@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 # include<stdio.h>
 # include<conio.h>
 void sum(int c[][5],int x,int y);
@@ -33,3 +36,6 @@ sm=sm+c[i][y];
 }
 printf("\nSum is %d",sm);
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
