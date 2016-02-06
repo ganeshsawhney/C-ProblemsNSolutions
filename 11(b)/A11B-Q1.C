@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include <stdio.h>
 #include <conio.h>
 
@@ -15,3 +18,6 @@ scanf("%d",&*v2);
 printf("\nVariable 1 \t%d\nVariable 2 \t %d",*v1,*v2);
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
