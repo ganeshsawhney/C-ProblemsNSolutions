@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>
@@ -38,4 +41,6 @@ break;
 printf("String corrected is %s",str);
 return (0);
 }
-
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
