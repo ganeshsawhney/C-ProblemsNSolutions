@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 #include <stdio.h>
 #include <conio.h>
 #include <string.h>
@@ -19,3 +22,6 @@ ln=cp-name;
 printf("Length is \t%d",ln);
 getch();
 }
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
