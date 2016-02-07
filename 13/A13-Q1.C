@@ -1,3 +1,6 @@
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
 # include <stdio.h>
 # include <conio.h>
 
@@ -17,5 +20,6 @@ fclose(fp);
 printf("Output is %d\t%d\t%d\t",a1,b1,c1);
 getch();
 }
-
-
+/* Created by Ganesh Sawhney       **
+** Email: ganeshsawhney@gmail.com  **
+** Github Username: ganeshsawhney  */
